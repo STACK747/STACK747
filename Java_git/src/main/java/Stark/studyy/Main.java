@@ -1,4 +1,4 @@
-package org.example;
+package Stark.studyy;
 
 public class Main {
     public static void main(String[] args) {
